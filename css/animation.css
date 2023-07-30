@@ -68,7 +68,7 @@
     transform: rotate(359deg);
   }
 }
-@keyframes spin {
+/* @keyframes spin {
   0% {
     -moz-transform: rotate(0deg);
     -o-transform: rotate(0deg);
@@ -83,3 +83,4 @@
     transform: rotate(359deg);
   }
 }
+ */
